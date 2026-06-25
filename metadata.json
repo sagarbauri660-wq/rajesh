@@ -1,0 +1,8 @@
+{
+  "name": "CSC Billing Software",
+  "description": "A highly-polished billing, receipt, and financial report manager for CSC centers featuring dynamic Scan-to-Pay QR codes, custom invoices, and WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
